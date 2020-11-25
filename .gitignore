@@ -1,0 +1,6 @@
+# files to ignore with git
+*.bmp
+*.jpg
+*.jpeg
+*.png
+*.tiff
